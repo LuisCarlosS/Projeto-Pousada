@@ -29,7 +29,7 @@
             </select><br><br>
         </div>
         <div>
-            <label for="">CPF do Acomodacao:</label><br>
+            <label for="">CPF do Cliente:</label><br>
             <input type="text" name="cpf" id="cpf" data-mask="999.999.999-99"><br><br>
         </div>
         <div id="telaAcomodacao" style="display: none">
